@@ -1,2 +1,1 @@
-c
-hthis fis help file
+this fis help file
